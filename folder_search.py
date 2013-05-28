@@ -1,3 +1,7 @@
+"""
+Coded by Marcus Willock :)
+"""
+
 import os
 
 def info():
